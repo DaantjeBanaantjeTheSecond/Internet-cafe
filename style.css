@@ -1,0 +1,10 @@
+.music_visualizer {
+    position: absolute;
+    border-radius: 25%;
+    z-index: 99999;
+    color: transparent;
+}
+
+.holder {
+    overflow-x: hidden;
+}
